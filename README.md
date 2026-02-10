@@ -16,6 +16,3 @@ This repository documents my journey learning machine learning—from fundamenta
 - Splitting into train/test sets
 - Training a kNN classifier
 - Evaluating accuracy (and comparing different `k` values)
-
-## Repo Structure (suggested)
-You can organize projects like this as the repo grows:
