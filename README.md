@@ -15,8 +15,4 @@ This repository documents my journey learning machine learning—from fundamenta
 - Loading a dataset using scikit-learn
 - Splitting into train/test sets
 - Training a kNN classifier
-<<<<<<< HEAD
-- Evaluating accuracy (and comparing different `k` values)
-=======
-- Evaluating accuracy (and comparing different `k` values)
->>>>>>> 0b2affc (Update README)
+- Evaluating accuracy and comparing different `k` values (Tuning hyperparameters)
